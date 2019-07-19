@@ -1,7 +1,7 @@
 # Face Generation 
 ## Project Overview
 
-I defined and trained a DCGAN on a faces. The Goal is to generate the new faces as realistic as possible.
+I defined and trained a DCGAN on a faces. The goal is to generate the new faces as realistic as possible.
 
 ## Project Instruction
 - Clone the repository
