@@ -10,3 +10,6 @@ I defined and trained a DCGAN on a faces. The Goal is to generate the new faces 
 
 - Open dlnd_face_generation.ipynb file.
 `jupyter notebook dlnd_face_generation.ipynb`
+
+## Project Info
+**I did not include the dataset in this project**
